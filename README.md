@@ -17,3 +17,5 @@ Example text 2.1.
 * Text
 
 [А это сайт Лаборатории нейролингвистики.](http://hse.ru/neuroling)
+
+Voronovo, 07 October 2017
